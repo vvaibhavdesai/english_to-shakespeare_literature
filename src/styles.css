@@ -1,0 +1,20 @@
+body {
+  font-family: sans-serif;
+}
+textarea {
+  padding: 1rem;
+  height: 10vh;
+  width: 80%;
+  margin: 1rem;
+}
+.button {
+  font-size: 1rem;
+}
+
+#output {
+  border: 0.5rem solid black;
+  height: 10vh;
+  width: 80%;
+  margin: 1rem;
+  padding: 1rem;
+}
